@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed El_malky</h1>
 <h3 align="center">A computer science student at USC | Native Android app developer</h3>
 
-- 🔭 I’m currently working on [Islamic app](https://github.com/AhmedEl-Malky/Islamic-App.git)
+- 🔭 I’m currently working on [DoiT](https://github.com/AhmedEl-Malky/Doit.git)
 
 - 🌱 I’m currently learning **Android Apps development**
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **www.linkedin.com/in/ahmed-elmalky-626276272**
 
-- ⚡ Fun fact **Gaming nerd 😅**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
