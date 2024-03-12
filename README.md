@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/ahmed-elmalky-626276272**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ahmed-elmalky-626276272](www.linkedin.com/in/ahmed-elmalky-626276272)
+- 📄 Know about my experiences **www.linkedin.com/in/ahmed-elmalky-626276272**
 
 
 <h3 align="center">Connect with me:</h3>
