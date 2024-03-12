@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed El_malky</h1>
-<h3 align="center">A computer science student at USC | Native Android app developer</h3>
+<h3 align="center">A computer science student at FCAI-USC | Native Android app developer</h3>
 
 - 🔭 I’m currently working on [DoiT](https://github.com/AhmedEl-Malky/Doit.git)
 
