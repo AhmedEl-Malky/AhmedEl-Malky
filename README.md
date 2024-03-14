@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=690&color=F7F7F7&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;+Computer+scinece+student+at+FCAI-USC;+Android+App+Developer;" />
 </h1>
-<h3 align="center">A Computer science student at FCAI-USC | Android App Developer</h3><br>
+<!-- <h3 align="center">A Computer science student at FCAI-USC | Android App Developer</h3><br> -->
 
 <div align="center">
   
@@ -26,7 +26,11 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,androidstudio,postman,figma,sqlite,git,github,linkedin,discord" /><br/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py" /><br/>
+    <img src="https://skillicons.dev/icons?i=androidstudio,postman,sqlite,git,materialui" /><br/>
+    <img src="https://skillicons.dev/icons?i=github,figma,ps,pr" /><br/>
+    
+    
 </div><br/><hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -35,5 +39,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedel-malky&show_icons=true&locale=en&layout=compact" alt="ahmedel-malky" width="467px" /></p><br/><hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+For+visiting+❤️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7F7F7&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+For+visiting+❤️;+Enjoy+your+tour✌️" />
 </h1>
