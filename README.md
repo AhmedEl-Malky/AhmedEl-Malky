@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=690&color=F7F7F7&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;+Computer+scinece+student+at+FCAI-USC;+Android+App+Developer;" />
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedel-malky&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedel-malky" /> </p>
 <h3 align="center">About Me</h3><br>
 
 
