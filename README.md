@@ -37,7 +37,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedel-malky&" alt="ahmedel-malky" width="467px" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedel-malky&rank_icon=github&show_icons=true&locale=en" alt="ahmedel-malky" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedel-malky&show_icons=true&locale=en&layout=compact" alt="ahmedel-malky" width="467px" /></p><br/><hr/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedel-malky&show_icons=true&locale=en&layout=compact" alt="ahmedel-malky" width="467px"/></p><br/><hr/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7F7F7&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+For+visiting+❤️;+Enjoy+your+tour✌️" />
