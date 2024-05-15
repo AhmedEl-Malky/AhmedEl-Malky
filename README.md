@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=690&color=F7F7F7&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;+Computer+scinece+student+at+FCAI-USC;+Android+App+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=690&color=339af0&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;+Computer+scinece+student+at+FCAI-USC;+Android+App+Developer;" />
 </h1>
 <h3 align="center">About Me</h3><br>
 
