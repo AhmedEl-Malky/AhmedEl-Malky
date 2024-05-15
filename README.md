@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=690&color=748ffc&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;+Computer+scinece+student+at+FCAI-USC;+Android+App+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&vCenter=true&width=700&color=5c7cfa&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Ahmed+El_malky;+Computer+scinece+student+at+FCAI-USC;+Android+App+Developer;" />
 </h1>
 <h3 align="center">About Me</h3><br>
 
@@ -40,5 +40,5 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedel-malky&show_icons=true&locale=en&layout=compact" alt="ahmedel-malky" width="467px"/></p><br/><hr/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=748ffc&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+For+visiting+❤️;+Enjoy+your+tour✌️" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=5c7cfa&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Thanks+For+visiting+❤️;+Enjoy+your+tour✌️" />
 </h1>
