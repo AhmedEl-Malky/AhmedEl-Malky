@@ -8,7 +8,7 @@
   
  🔭 I’m currently working on [Go-Orders](https://github.com/AhmedEl-Malky/Go-Orders.git)
 
- 🌱 I’m currently learning **Android Apps development**
+ 🌱 I’m currently learning Compose UI for **Android Apps development**
 
  📫 How to reach me **www.linkedin.com/in/ahmed-elmalky-626276272**
 
