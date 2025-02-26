@@ -29,8 +29,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,py" /><br/>
     <img src="https://skillicons.dev/icons?i=androidstudio,materialui,postman,sqlite,git" /><br/>
-    <img src="https://skillicons.dev/icons?i=github,linux,figma,ps,pr" /><br/>
-    <img src="https://skillicons.dev/icons?i=discord,gradle,linkedin,obsidian,vscode" /><br/>
+    <img src="https://skillicons.dev/icons?i=github,linux,figma,ps,ai" /><br/>
+    <img src="https://skillicons.dev/icons?i=ae,discord,gradle,linkedin,obsidian" /><br/>
     
     
 </div><br/><hr/>
