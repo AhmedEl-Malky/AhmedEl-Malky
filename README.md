@@ -36,7 +36,7 @@
 </div><br/><hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedel-malky&" alt="ahmedel-malky" width="467px" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedel-malky" alt="ahmedel-malky" width="467px" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedel-malky&rank_icon=github&show_icons=true&locale=en" alt="ahmedel-malky" /></p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedel-malky&show_icons=true&locale=en&layout=compact" alt="ahmedel-malky" width="467px"/></p><br/><hr/>
 
